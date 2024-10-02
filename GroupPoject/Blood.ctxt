@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Blood
+comment1.params=bloodType\ systolic\ diastolic
+comment1.target=Blood(java.lang.String,\ int,\ int)
+comment2.params=bloodType\ systolic\ diastolic
+comment2.target=void\ setBlood(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getBloodType()
+comment4.params=
+comment4.target=int\ getSystolic()
+comment5.params=
+comment5.target=int\ getDiastolic()
+comment6.params=
+comment6.target=java.lang.String\ defineBlood()
+numComments=7
